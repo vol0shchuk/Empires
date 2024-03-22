@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\Empires\Empires\bin\Debug\net6.0\Empires.exe
+C:\Users\HP\source\repos\Empires\Empires\bin\Debug\net6.0\Empires.deps.json
+C:\Users\HP\source\repos\Empires\Empires\bin\Debug\net6.0\Empires.runtimeconfig.json
+C:\Users\HP\source\repos\Empires\Empires\bin\Debug\net6.0\Empires.dll
+C:\Users\HP\source\repos\Empires\Empires\bin\Debug\net6.0\Empires.pdb
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\Empires.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\Empires.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\Empires.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\Empires.AssemblyInfo.cs
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\Empires.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\Empires.dll
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\refint\Empires.dll
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\Empires.pdb
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\Empires.genruntimeconfig.cache
+C:\Users\HP\source\repos\Empires\Empires\obj\Debug\net6.0\ref\Empires.dll
